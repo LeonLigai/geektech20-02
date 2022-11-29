@@ -1,0 +1,28 @@
+.container {
+    width: 600px;
+    margin: 20px auto;
+}
+.name{
+    text-align: center;
+}
+.div {
+    width: 200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.count {
+     text-align: center;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.btn{
+    width: 60px;
+    height: 60px;
+    font-size: 32px;
+    line-height: 60px;
+    background-color: aqua;
+    color: blue;
+    text-align: center;
+}
